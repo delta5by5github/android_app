@@ -38,7 +38,7 @@ To use this calculator app, you can follow these steps:
 
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/delta5by5github/android_app/tree/main
    ```
 
 2. Open the project in Android Studio.
